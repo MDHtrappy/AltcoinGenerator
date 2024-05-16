@@ -20,7 +20,7 @@ COIN_UNIT="RIZZ"
 TOTAL_SUPPLY=420696969
 MAINNET_PORT="54321"
 TESTNET_PORT="54322"
-PHRASE="Some newspaper headline that describes something that happened today"
+PHRASE="French territory in turmoil after constitutional reform vote, state of emergency imposed"
 # First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding
 PUBKEY_CHAR="49"
 # leave CHAIN empty for main network, -regtest for regression network and -testnet for test network
